@@ -11,7 +11,6 @@ This technology has 2 goals :
 
 This 2 points allows to create Email based applications called eApp, the email is a vector to transport the UI but it never excute anything. The execution of the eApp is done in client/server mode. The Business logic of the application can be done in any technology that can implement the specifications of EAC Technology.
 
-This applications examples are built on VDOM Plateform or ProSuite Plug-in :
+This applications examples are built on VDOM Plateform :
   - To run VDOM Plateform go to : http://github.com/VDOMBoxGroup/vdomserver1.3
-  - ProSuite are commercials Applications : http://www.prosuite.fr
 
